@@ -1,0 +1,9 @@
+{
+  "user": {
+    "first": "Braedon",
+    "last": "Gough",
+    "age": 25,
+    "isACoolDude": false,
+    "favouriteSnacks": ["cookies", "dates"]
+  }
+}

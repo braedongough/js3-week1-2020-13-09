@@ -1,0 +1,18 @@
+{
+  "orderOne": {
+    "name": "Burger",
+    "id": 1,
+    "price": null,
+    "listOfDrinks": ["cola", "beer", "water", 9]
+  },
+  "orderTwo": {
+    "name": "Hot      dog",
+    "id": 2,
+    "price": 1950,
+    "toppings": ["pickles", "beer", "water", 9],
+    "orderExtras": {
+      "toppings": "pickles",
+      "sauces": ["ketchup", "mustard", "mayo"]
+    }
+  }
+}
